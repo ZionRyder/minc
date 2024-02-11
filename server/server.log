@@ -1,0 +1,93 @@
+2024-02-09 21:43:23 [INFO] Starting minecraft server version 1.5.2
+2024-02-09 21:43:23 [INFO] Loading properties
+2024-02-09 21:43:23 [WARNING] server.properties does not exist
+2024-02-09 21:43:23 [INFO] Generating new properties file
+2024-02-09 21:43:23 [INFO] Default game type: SURVIVAL
+2024-02-09 21:43:23 [INFO] Generating keypair
+2024-02-09 21:43:23 [INFO] Starting Minecraft server on *:25565
+2024-02-09 21:43:23 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+2024-02-09 21:43:23 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+2024-02-09 21:43:23 [INFO] Preparing level "world"
+2024-02-09 21:43:24 [INFO] Preparing start region for level 0
+2024-02-09 21:43:25 [INFO] Preparing spawn area: 27%
+2024-02-09 21:43:26 [INFO] Preparing spawn area: 62%
+2024-02-09 21:43:27 [INFO] Preparing spawn area: 97%
+2024-02-09 21:43:27 [INFO] Done (3.440s)! For help, type "help" or "?"
+2024-02-09 21:45:42 [INFO] Stopping the server
+2024-02-09 21:45:42 [INFO] Stopping server
+2024-02-09 21:45:42 [INFO] Saving players
+2024-02-09 21:45:42 [INFO] Saving worlds
+2024-02-09 21:45:42 [INFO] Closing listening thread
+2024-02-09 21:45:42 [INFO] Saving chunks for level 'world'/Overworld
+2024-02-09 21:45:42 [INFO] Saving chunks for level 'world'/Nether
+2024-02-09 21:45:42 [INFO] Saving chunks for level 'world'/The End
+2024-02-09 21:56:34 [INFO] Starting minecraft server version 1.5.2
+2024-02-09 21:56:34 [INFO] Loading properties
+2024-02-09 21:56:34 [INFO] Default game type: SURVIVAL
+2024-02-09 21:56:34 [INFO] Generating keypair
+2024-02-09 21:56:35 [INFO] Starting Minecraft server on *:25565
+2024-02-09 21:56:35 [INFO] Preparing level "world"
+2024-02-09 21:56:35 [INFO] Preparing start region for level 0
+2024-02-09 21:56:35 [INFO] Done (0.434s)! For help, type "help" or "?"
+2024-02-09 21:56:42 [INFO] Jumper_85 [/127.105.48.42:61577] lost connection
+2024-02-09 21:56:50 [INFO] Jumper_85 [/127.105.48.42:61585] lost connection
+2024-02-09 21:56:58 [INFO] ZionRyder[/10.0.0.16:61591] logged in with entity id 133 at (118.5, 71.0, 259.5)
+2024-02-09 21:56:59 [INFO] ZionRyder lost connection: disconnect.genericReason
+2024-02-09 21:57:21 [INFO] ZionRyder[/10.0.0.16:61607] logged in with entity id 783 at (118.5, 71.0, 259.5)
+2024-02-09 21:57:22 [INFO] ZionRyder lost connection: disconnect.genericReason
+2024-02-09 21:58:13 [INFO] Starting minecraft server version 1.5.2
+2024-02-09 21:58:13 [INFO] Loading properties
+2024-02-09 21:58:13 [INFO] Default game type: SURVIVAL
+2024-02-09 21:58:13 [INFO] Generating keypair
+2024-02-09 21:58:13 [INFO] Starting Minecraft server on *:25565
+2024-02-09 21:58:13 [INFO] Preparing level "world"
+2024-02-09 21:58:13 [INFO] Preparing start region for level 0
+2024-02-09 21:58:14 [INFO] Done (0.441s)! For help, type "help" or "?"
+2024-02-09 21:58:24 [INFO] ZionRyder[/10.0.0.16:61651] logged in with entity id 246 at (118.5, 71.0, 259.5)
+2024-02-09 21:58:25 [INFO] ZionRyder lost connection: disconnect.genericReason
+2024-02-09 21:59:34 [INFO] Starting minecraft server version 1.5.2
+2024-02-09 21:59:34 [INFO] Loading properties
+2024-02-09 21:59:34 [INFO] Default game type: SURVIVAL
+2024-02-09 21:59:34 [INFO] Generating keypair
+2024-02-09 21:59:34 [INFO] Starting Minecraft server on *:25565
+2024-02-09 21:59:34 [INFO] Preparing level "world"
+2024-02-09 21:59:34 [INFO] Preparing start region for level 0
+2024-02-09 21:59:34 [INFO] Done (0.443s)! For help, type "help" or "?"
+2024-02-09 21:59:40 [INFO] ZionRyder[/10.0.0.16:61683] logged in with entity id 242 at (118.5, 71.0, 259.5)
+2024-02-09 21:59:41 [INFO] ZionRyder lost connection: disconnect.genericReason
+2024-02-09 22:00:28 [INFO] ZionRyder[/10.0.0.16:61708] logged in with entity id 614 at (118.5, 71.0, 259.5)
+2024-02-09 22:00:29 [INFO] ZionRyder lost connection: disconnect.genericReason
+2024-02-09 22:01:12 [INFO] ZionRyder[/10.0.0.16:61772] logged in with entity id 729 at (118.5, 71.0, 259.5)
+2024-02-09 22:01:13 [INFO] ZionRyder lost connection: disconnect.genericReason
+2024-02-09 22:01:40 [INFO] Stopping server
+2024-02-09 22:01:40 [INFO] Saving players
+2024-02-09 22:01:40 [INFO] Saving worlds
+2024-02-09 22:01:40 [INFO] Closing listening thread
+2024-02-09 22:01:40 [INFO] Saving chunks for level 'world'/Overworld
+2024-02-09 22:01:40 [INFO] Saving chunks for level 'world'/Nether
+2024-02-09 22:01:40 [INFO] Saving chunks for level 'world'/The End
+2024-02-09 22:02:22 [INFO] Starting minecraft server version 1.5.2
+2024-02-09 22:02:22 [INFO] Loading properties
+2024-02-09 22:02:22 [INFO] Default game type: SURVIVAL
+2024-02-09 22:02:22 [INFO] Generating keypair
+2024-02-09 22:02:22 [INFO] Starting Minecraft server on *:25565
+2024-02-09 22:02:22 [INFO] Preparing level "world"
+2024-02-09 22:02:22 [INFO] Preparing start region for level 0
+2024-02-09 22:02:22 [INFO] Done (0.446s)! For help, type "help" or "?"
+2024-02-09 22:02:27 [INFO] Disconnecting ZionRyder [/10.0.0.16:61850]: Failed to verify username! [internal error java.io.IOException: Server returned HTTP response code: 429 for URL: http://session.minecraft.net/game/checkserver.jsp?user=ZionRyder&serverId=-6083e65ce92e73c934b843fe0cbd1249986c03da]
+2024-02-09 22:02:27 [INFO] ZionRyder [/10.0.0.16:61850] lost connection
+2024-02-09 22:02:38 [INFO] ZionRyder[/10.0.0.16:61867] logged in with entity id 278 at (118.5, 71.0, 259.5)
+2024-02-09 22:02:39 [INFO] ZionRyder lost connection: disconnect.genericReason
+2024-02-09 22:03:17 [INFO] ZionRyder[/10.0.0.16:61902] logged in with entity id 279 at (118.5, 71.0, 259.5)
+2024-02-09 22:03:18 [INFO] ZionRyder lost connection: disconnect.genericReason
+2024-02-09 22:06:48 [INFO] ZionRyder[/10.0.0.16:61970] logged in with entity id 321 at (118.5, 71.0, 259.5)
+2024-02-09 22:06:49 [INFO] ZionRyder lost connection: disconnect.genericReason
+2024-02-09 22:09:04 [INFO] ZionRyder[/10.0.0.16:62027] logged in with entity id 408 at (118.5, 71.0, 259.5)
+2024-02-09 22:09:08 [INFO] ZionRyder lost connection: disconnect.genericReason
+2024-02-09 22:09:28 [INFO] Stopping server
+2024-02-09 22:09:28 [INFO] Saving players
+2024-02-09 22:09:28 [INFO] Saving worlds
+2024-02-09 22:09:28 [INFO] Closing listening thread
+2024-02-09 22:09:28 [INFO] Saving chunks for level 'world'/Overworld
+2024-02-09 22:09:28 [INFO] Saving chunks for level 'world'/Nether
+2024-02-09 22:09:28 [INFO] Saving chunks for level 'world'/The End
