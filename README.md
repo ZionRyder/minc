@@ -1,0 +1,2 @@
+# minc
+minecraft server
